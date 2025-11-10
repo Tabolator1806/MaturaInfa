@@ -1,4 +1,4 @@
-path = "pliki/dane maj 23/"
+path = "dane maj 23/"
 fileName = "symbole_przyklad.txt"
 
 file = open(path+fileName)
